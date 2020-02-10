@@ -1,5 +1,3 @@
-Usage: 
-
 Usage: check_statistical.sage <bin/prime> <n/p> <t> <start> <end> (<lin>)
 
 For the first argument, provide "prime" for prime fields and "bin" for binary fields
